@@ -1,6 +1,6 @@
 import { eachLike, string, integer } from '@pact-foundation/pact/dsl/matchers';
 
-module.exports = {
+const interaction = {
   uponReceiving: 'a request to list all characters',
   withRequest: {
     method: 'GET',
@@ -20,3 +20,5 @@ module.exports = {
     ),
   },
 };
+
+module.exports = interaction;
