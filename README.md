@@ -1,5 +1,7 @@
 ## Contract Testing using PactJs
 
+> Totally based on https://github.com/eduardopc/contract-testing-pactjs, kudos!
+
 ### Pre-Reqs:
 
 * Node
