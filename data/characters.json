@@ -1,0 +1,24 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Walter White"
+    },
+    {
+      "id": 2,
+      "name": "Jesse Pinkman"
+    },
+    {
+      "id": 3,
+      "name": "Saul Goodman"
+    },
+    {
+      "id": 4,
+      "name": "Gus Fring"
+    },
+    {
+      "id": 5,
+      "name": "Mike Ehrmantraut"
+    }
+  ]
+}
